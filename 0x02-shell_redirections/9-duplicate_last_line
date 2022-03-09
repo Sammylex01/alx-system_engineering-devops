@@ -1,0 +1,1 @@
+cat ./iacta tail -n 1 >> ./iacta
