@@ -1,0 +1,1 @@
+#!/bin/bash find -wholename "./*" -type d wc-1
