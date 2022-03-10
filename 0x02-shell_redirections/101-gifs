@@ -1,0 +1,1 @@
+#!/bin/bash find -type f -name "*.gif" tr -d "##*.gif sort -n -f
