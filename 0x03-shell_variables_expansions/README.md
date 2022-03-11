@@ -1,1 +1,1 @@
-This is file for shell variable expansions
+This is a file for shell variable expansions
